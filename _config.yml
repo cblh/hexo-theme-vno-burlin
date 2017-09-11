@@ -4,10 +4,10 @@ menu:
 rss: /atom.xml
 # description: blog description
 social:
-  github: https://github.com/lenbo-ma
-  twitter: https://twitter.com/lenbo_
+  github: https://github.com/cblh
+#  twitter: https://twitter.com/lenbo_
 #  weibo: 
-#  stack_overflow: 
+  stack_overflow: https://stackoverflow.com/users/3987958/baulin
 #  facebook: 
 #  google_plus: 
 
